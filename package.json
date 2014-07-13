@@ -1,15 +1,11 @@
 {
   "name": "MultiVision",
   "version": "0.0.0",
-  "description": "Extreme Tech Training",
+  "description": "Exteme Tech Training",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aswartha A",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.6.0",
-    "jade": "^1.3.1"
-  }
+  "author": "Aswartha Na",
+  "license": "ISC"
 }
